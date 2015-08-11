@@ -1,0 +1,16 @@
+{
+  "name": "國民旅遊卡",
+  "main": "index.html",
+  "version": "0.0.2",
+  "single-instance": true,
+  "window": {
+    "title": "Taiwan Travel Card",
+    "width": 400,
+    "height": 640,
+    "min_width": 384,
+    "min_height": 640,
+    "position": "center",
+    "toolbar": false
+  },
+  "chromium-args": "--child-clean-exit"
+}

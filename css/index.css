@@ -1,0 +1,23 @@
+@media all and (min-width:40em) {
+	.ui-margin{
+			padding: 15px 15%;
+	}
+}
+
+.ui-listview .ui-li-aside{
+	top :1px !important;
+	right: initial !important;
+	left:2px !important;
+}
+
+.splash {
+
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: 100%;
+	
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+}
